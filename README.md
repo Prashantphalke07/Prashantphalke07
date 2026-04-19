@@ -11,7 +11,7 @@
 
 - 🔹 Lead Data Scientist specializing in **Generative AI, Machine Learning, Deep Learning, NLP & Forecasting**
 - 🔹 Expert in **LLMs, RAG pipelines, and AI agents**
-- 🔹 Strong experience in **NLP classification & time series forecasting**
+- 🔹 Strong experience in **ML, DL, NLP classification & time series forecasting**
 - 🔹 Building scalable AI systems using **Databricks, Azure, LangChain**
 - 🔹 Focused on delivering **business-driven AI solutions**
 
