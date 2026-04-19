@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 🔹 Lead Data Scientist specializing in **Generative AI, NLP & Forecasting**
+- 🔹 Lead Data Scientist specializing in **Generative AI, Machine Learning, Deep Learning, NLP & Forecasting**
 - 🔹 Expert in **LLMs, RAG pipelines, and AI agents**
 - 🔹 Strong experience in **NLP classification & time series forecasting**
 - 🔹 Building scalable AI systems using **Databricks, Azure, LangChain**
