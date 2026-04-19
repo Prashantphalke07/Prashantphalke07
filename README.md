@@ -1,32 +1,30 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Prashant Phalke</h1>
 <h3 align="center">🚀 Lead Data Scientist | GenAI Architect | LLM | Agentic AI | AI Solutions Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+AI+Products;GenAI+%7C+LLM+%7C+RAG+Expert;Agentic+AI+Systems;Turning+Data+into+Business+Value&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+AI+Products;GenAI+%7C+LLM+%7C+RAG+Expert;NLP+Classification+%7C+Forecasting;Agentic+AI+Systems&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔹 Lead Data Scientist with strong focus on **Generative AI & LLM systems**
-- 🔹 Building **RAG pipelines, multi-agent systems, and AI platforms**
-- 🔹 Experienced in **Databricks, Azure AI, LangChain, LangGraph**
-- 🔹 Passionate about turning **AI into real business impact**
-- 🔹 Exploring **AI Agents, Autonomous Systems & AI Governance**
+- 🔹 Lead Data Scientist specializing in **Generative AI, NLP & Forecasting**
+- 🔹 Expert in **LLMs, RAG pipelines, and AI agents**
+- 🔹 Strong experience in **NLP classification & time series forecasting**
+- 🔹 Building scalable AI systems using **Databricks, Azure, LangChain**
+- 🔹 Focused on delivering **business-driven AI solutions**
 
 ---
 
 ## 💼 What I Do
 
-✔️ Design & build **GenAI-powered applications**  
-✔️ Develop **RAG + Knowledge Graph systems (GraphRAG)**  
-✔️ Build **Agentic workflows (multi-agent orchestration)**  
-✔️ Productionize AI with **MLOps + LLMOps**  
-✔️ Create **AI solutions for enterprise use-cases**
+✔️ Build **GenAI & LLM-powered applications**  
+✔️ Develop **NLP Classification systems (BERT, Transformers)**  
+✔️ Design **Time Series Forecasting models (ARIMA, Prophet, ML/DL)**  
+✔️ Create **RAG + Knowledge Graph systems (GraphRAG)**  
+✔️ Build **Agentic AI workflows (multi-agent systems)**  
+✔️ Productionize AI with **MLOps & LLMOps**
 
 ---
 
@@ -36,7 +34,12 @@
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Machine Learning](https://img.shields.io/badge/ML-Modeling-green)
 ![Deep Learning](https://img.shields.io/badge/DeepLearning-red)
-![NLP](https://img.shields.io/badge/NLP-Language-orange)
+
+### 🔹 NLP & Forecasting
+![NLP](https://img.shields.io/badge/NLP-Classification-orange)
+![BERT](https://img.shields.io/badge/BERT-Transformers-yellow)
+![Time Series](https://img.shields.io/badge/TimeSeries-Forecasting-blueviolet)
+![Prophet](https://img.shields.io/badge/Prophet-Facebook-blue)
 
 ### 🔹 GenAI & LLM
 ![LLM](https://img.shields.io/badge/LLM-Advanced-purple)
@@ -54,17 +57,23 @@
 
 ## 🔥 Key Projects
 
+🚀 **NLP Classification System**  
+- Built text classification using **BERT & Transformer models**  
+- Use cases: sentiment analysis, document classification  
+- Deployed via APIs with scalable architecture  
+
+📊 **Time Series Forecasting Platform**  
+- Developed forecasting models for retail & demand planning  
+- Models: **ARIMA, Prophet, ML/DL models**  
+- Deployed on cloud with automated pipelines  
+
 🚀 **GraphRAG Pipeline**  
 - Knowledge graph extraction using LLMs + Neo4j  
-- Context-aware query generation  
+- Context-aware intelligent querying  
 
 🤖 **Multi-Agent AI System**  
-- Autonomous agents for task orchestration  
-- LangGraph-based execution  
-
-📊 **AI Forecasting Platform**  
-- Time-series forecasting for retail products  
-- Scalable deployment on cloud  
+- Autonomous agents for workflow orchestration  
+- Built using LangGraph  
 
 🧾 **Structured Q&A Generator**  
 - LLM + Pydantic + LangChain structured outputs  
@@ -74,11 +83,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prashantphalke07&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashant-phalke-7p7&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
 </p>
 
 ---
@@ -89,7 +98,7 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
   </a>
-  <a href="mailto:prashant.phalke07@gmail.com">
+  <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
   </a>
 </p>
@@ -98,10 +107,10 @@
 
 ## 🎯 Vision
 
-> "Building intelligent AI systems that transform businesses and empower decision-making."
+> "Building intelligent AI systems that combine GenAI, NLP, and forecasting to solve real business problems."
 
 ---
 
 ## ⚡ Fun Fact
 
-I don’t just build models — I build **end-to-end AI products that deliver business value** 🚀
+I design AI systems that **predict the future 📊 and understand language 🧠 at scale** 🚀
